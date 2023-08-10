@@ -699,11 +699,6 @@ main{
 }
 
 
-
-
-
-
-
 @media(max-width:600px){
     
     .hero_title{
@@ -719,6 +714,10 @@ main{
         font-size: 1.8rem;
     }
 
+    .about{
+        height: auto;
+        padding-bottom: 20px;
+    }
     .price_element{
         width: 150%;
         padding: 40px;
