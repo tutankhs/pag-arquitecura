@@ -264,7 +264,8 @@ main{
 }
 
 .footer_img{
-    width: 30px;
+    width: 50px;
+    cursor: pointer;
 }
 
 /* MEDIA QUERIES */
