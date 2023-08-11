@@ -131,6 +131,7 @@ main{
     justify-items: center;
     margin: 0 auto;
     margin-bottom: 50px;
+    width: 80%;
     
 
     
@@ -151,9 +152,9 @@ main{
     padding: 0;
     border: 1px solid #fff;
     box-shadow: 0px 0px 2px #fff;
-    border-radius: 10vw;
-    width: 80vw;
-    height: 50vw;
+    border-radius: 5vw;
+    width: 50vw;
+    height: 30vw;
     margin: 0 auto;
     
 }
@@ -193,10 +194,10 @@ main{
     pointer-events: none;
     padding: 0;
     border: 1px solid #fff;
-    border-radius: 10vw;
+    border-radius: 5vw;
     box-shadow: 0px 0px 2px #fff;
-    width: 80vw;
-    height: 50vw;
+    width: 50vw;
+    height: 30vw;
     margin: 0 auto;
     
 }
@@ -219,9 +220,9 @@ main{
     padding: 0;
     border: 1px solid #fff;
     box-shadow: 0px 0px 2px #fff;
-    border-radius: 10vw;
-    width: 80vw;
-    height: 50vw;
+    border-radius: 5vw;
+    width: 50vw;
+    height: 30vw;
     margin: 0 auto;
 
 }
@@ -376,7 +377,7 @@ main{
 
 
     .container{
-        width: 100%;
+        width: 80%;
     }
     .nav_menu{
         display: block;
@@ -502,8 +503,25 @@ main{
         margin-bottom: 10px;
     }
     
+    .proyectos_body{
+        width: 70vw;
+        height: 40vw;
+        margin-bottom: 20px;
+    }
+
+    .proyectos_body2{
+        width: 70vw;
+        height: 40vw;
+        margin-bottom: 20px;
+    }
+
+    .proyectos_body3{
+        width: 70vw;
+        height: 40vw;
+    }
+    
     .proyectos_arrow{
-        width: 60%;
+        width: 80%;
         
         
     }
